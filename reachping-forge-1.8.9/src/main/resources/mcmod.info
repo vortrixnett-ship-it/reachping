@@ -1,0 +1,8 @@
+[{
+  "modid": "reachping",
+  "name": "ReachPing",
+  "description": "Plays a sound when you hit an entity from far away.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Port of ReachPing by Frogman34000"]
+}]
